@@ -1,0 +1,15 @@
+rentify/
+│
+├── models/
+│   ├── user.js
+│   └── property.js
+│
+├── routes/
+│   ├── auth.js
+│   └── properties.js
+│
+├── middleware/
+│   └── auth.js
+│
+├── app.js
+└── server.js
