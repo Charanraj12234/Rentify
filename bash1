@@ -1,0 +1,2 @@
+npm install express mongoose bcryptjs jsonwebtoken body-parser
+npm install --save-dev nodemon
